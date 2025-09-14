@@ -36,7 +36,8 @@ public class TareaSemana13
 
                     if (encontrado)
                     {
-                        System.Console.WriteLine("Encontrado");
+                        System.Console.WriteLine("Encontrado"); 
+                        
                     }
                     else
                     {
@@ -54,7 +55,7 @@ public class TareaSemana13
             }
             else
             {
-                System.Console.WriteLine("Opción no válida. Intente nuevamente.");
+                System.Console.WriteLine("Opción no válida. Intente nuevamente.");// Mensaje de error para opcion invalida
             }
         }
     }

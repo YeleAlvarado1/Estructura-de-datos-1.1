@@ -1,2 +1,2 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿TareaSemana13.Run(); // Ejecuta la tarea de la semana 13
+
